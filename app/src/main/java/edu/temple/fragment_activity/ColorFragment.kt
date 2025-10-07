@@ -24,7 +24,7 @@ class ColorFragment : Fragment() {
                         arrayOf("Blue", "Maroon", "Magenta", "Green", "Red").random())
                 )
 
-            }
+            }//end listener
 
         }//end .apply
 
